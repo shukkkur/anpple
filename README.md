@@ -27,5 +27,5 @@
   <li>Highest accuracy - 81%</li>
 </ol>
 
-<p>You can find a more detailed information regarding the project in <a href="">anpple.ppt</a>
+<p>You can find a more detailed information regarding the  project in <a href="">anpple.ppt</a>
 
