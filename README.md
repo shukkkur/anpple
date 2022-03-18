@@ -30,7 +30,7 @@
 <p>You can find a more detailed information regarding the  project in <a href="https://github.com/shukkkur/anpple/blob/50687e5a5897cf01170847c68dbefd93859c3dd1/ANPPLE.pptx">anpple.ppt</a>
 
   <hr/>
-<p> This project is a result of group work:</p>
+<p> This project is a result of group work: </p>
 <ul> 
   <li><a href="https://github.com/ErlanBazarov/">@erlanbazarov</a> - (pre-processing & hosting)</li>
   <li><a href="https://github.com/AlgoAIBoss">@algoAIboss</a> - (model building)</li>
