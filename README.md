@@ -14,7 +14,7 @@
   </li>
 </ol>
 
-<p><strong>Notice!</strong> In case you would like to run the project, you will have to follow netlify link, click scrape and in web console (<strong>SHIFT + CTRL + "C"</strong>) proceed to the ip address and verify security check</p>
+<p><strong>Notice!</strong> In case you would like to run the project, you will have to follow netlify link, click scrape and in web console (<strong>SHIFT + CTRL + "C"</strong>) proceed to the ip address and verify security check. After that there should be no problems.</p>
 
 <img src="https://user-images.githubusercontent.com/78250180/158939758-6fde0541-9857-4b13-ae80-4ae8fb43d526.png">
 
@@ -27,5 +27,15 @@
   <li>Highest accuracy - 81%</li>
 </ol>
 
-<p>You can find a more detailed information regarding the  project in <a href="">anpple.ppt</a>
+<p>You can find a more detailed information regarding the  project in <a href="https://github.com/shukkkur/anpple/blob/50687e5a5897cf01170847c68dbefd93859c3dd1/ANPPLE.pptx">anpple.ppt</a>
+
+  <hr/>
+<p> This project is a result of group work:</p>
+<ul> 
+  <li><a href="https://github.com/ErlanBazarov/">@erlanbazarov</a> - (pre-processing & hosting)</li>
+  <li><a href="https://github.com/AlgoAIBoss">@algoAIboss</a> - (model building)</li>
+  <li>Shakhansho Sabzaliev - Web Scraping</li>
+</ul>
+
+
 
