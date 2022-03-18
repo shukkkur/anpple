@@ -32,8 +32,8 @@
   <hr/>
 <p> This project is a result of group work: </p>
 <ul> 
-  <li><a href="https://github.com/ErlanBazarov/">@erlanbazarov</a> - (pre-processing & hosting)</li>
-  <li><a href="https://github.com/AlgoAIBoss">@algoAIboss</a> - (model building)</li>
+  <li><a href="https://github.com/ErlanBazarov/">@erlanbazarov</a> - Pre-processing & Hosting</li>
+  <li><a href="https://github.com/AlgoAIBoss">@algoAIboss</a> - Model Building)</li>
   <li><a href="https://github.com/AlgoAIBoss">@shukkkur</a> - Web Scraping</li>
 </ul>
 
