@@ -34,7 +34,7 @@
 <ul> 
   <li><a href="https://github.com/ErlanBazarov/">@erlanbazarov</a> - (pre-processing & hosting)</li>
   <li><a href="https://github.com/AlgoAIBoss">@algoAIboss</a> - (model building)</li>
-  <li>Shakhansho Sabzaliev - Web Scraping</li>
+  <li><a href="https://github.com/AlgoAIBoss">Shakhansho Sabzaliev</a> - Web Scraping</li>
 </ul>
 
 
